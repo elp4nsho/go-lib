@@ -12,3 +12,7 @@ func Hello2() {
 func Hello3() {
 	fmt.Println("Running the secret process!22")
 }
+
+func Hello4() {
+	fmt.Println("Running the secret process!22")
+}
