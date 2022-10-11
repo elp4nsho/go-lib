@@ -8,3 +8,7 @@ func Hello() {
 func Hello2() {
 	fmt.Println("Running the secret process!22")
 }
+
+func Hello3() {
+	fmt.Println("Running the secret process!22")
+}
